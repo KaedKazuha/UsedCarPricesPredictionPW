@@ -2,7 +2,7 @@ import json
 from main import app, db, CleanedVehicle  # Adjust import as needed
 
 # Load the cleaned data from the JSON file
-with open('cleaned_used_car_data.json', 'r') as f:
+with open('used_car_data.json', 'r') as f:
     cleaned_data = json.load(f)
 
 # Ensure the database is fresh
