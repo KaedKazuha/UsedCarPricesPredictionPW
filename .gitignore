@@ -1,2 +1,3 @@
 /server/venv
 /client/node_modules/
+/server/MachineLearning/car_price_model.pkl

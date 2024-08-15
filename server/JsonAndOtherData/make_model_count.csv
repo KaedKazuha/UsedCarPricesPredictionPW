@@ -1,0 +1,511 @@
+Adam,Revo,2
+Audi,A3,66
+Audi,A4,76
+Audi,A5,71
+Audi,A6,64
+Audi,Q2,5
+Audi,Q3,4
+Audi,Q5,2
+Audi,Q7,7
+Audi,e-tron,2
+BAIC,BJ40,9
+BAIC,"BJ40 Plus",57
+BAIC,"Senova D20",1
+BAIC,"Senova X25",1
+BMW,"1 Series",3
+BMW,"2 Series",5
+BMW,"3 Series",39
+BMW,"5 Series",39
+BMW,"7 Series",42
+BMW,X1,30
+BMW,"X3 Series",2
+BMW,"X5 Series",18
+BMW,"X6 Series",1
+BMW,X7,2
+BMW,Z3,1
+BMW,Z4,1
+BMW,i8,3
+Bentley,"Flying Spur",1
+Bentley,Other,1
+Bugatti,Veyron,1
+Buick,LaCrosse,2
+Buick,Roadmaster,1
+Cadillac,Cts,2
+Changan,A800,3
+Changan,Alsvin,235
+Changan,CX70T,1
+Changan,Chitral,1
+Changan,Gilgit,4
+Changan,"Kaghan XL",2
+Changan,Kalam,1
+Changan,Kalash,2
+Changan,Karvaan,244
+Changan,M9,10
+Changan,"Oshan X7",172
+Changan,UNI-T,1
+Chery,QQ,11
+Chery,"Tiggo 4",1
+Chery,"Tiggo 4 Pro",18
+Chery,"Tiggo 8",2
+Chery,"Tiggo 8 Pro",34
+Chevrolet,Caprice,4
+Chevrolet,Colorado,2
+Chevrolet,Exclusive,21
+Chevrolet,Impala,1
+Chevrolet,Joy,33
+Chevrolet,Matiz,1
+Chevrolet,Optra,22
+Chevrolet,Other,1
+Chevrolet,Silverado,3
+Chevrolet,Spark,7
+Chevrolet,Suburban,1
+Chevrolet,Van,1
+DFSK,C37,3
+DFSK,"Glory 500",2
+DFSK,"Glory 580",212
+DFSK,Shahbaz,1
+Daehan,Shehzore,12
+Daewoo,Cielo,5
+Daewoo,Other,1
+Daewoo,Racer,53
+Daihatsu,"Atrai Wagon",14
+Daihatsu,Bego,1
+Daihatsu,Boon,81
+Daihatsu,Cast,123
+Daihatsu,Charade,193
+Daihatsu,Charmant,1
+Daihatsu,Coo,2
+Daihatsu,Copen,48
+Daihatsu,Cuore,632
+Daihatsu,Esse,30
+Daihatsu,Hijet,254
+Daihatsu,Mira,1129
+Daihatsu,"Mira Cocoa",1
+Daihatsu,Move,487
+Daihatsu,"Move Canbus",6
+Daihatsu,"Move Conte",11
+Daihatsu,"Move Latte",3
+Daihatsu,Other,1
+Daihatsu,Rocky,118
+Daihatsu,Sirion,2
+Daihatsu,Sonica,8
+Daihatsu,Storia,4
+Daihatsu,Taft,112
+Daihatsu,Tanto,56
+Daihatsu,Terios,24
+Daihatsu,"Terios Kid",28
+Daihatsu,Thor,12
+Daihatsu,Wake,4
+Datsun,1000,2
+Datsun,"120 Y",11
+Datsun,Other,1
+Dodge,Ram,6
+Dongfeng,Guru,1
+FAW,Carrier,21
+FAW,"Senya R7",2
+FAW,Sirius,9
+FAW,V2,101
+FAW,X-PV,91
+Fiat,Uno,3
+Ford,"F 150",32
+Ford,"F 150 Shelby",3
+Ford,Mustang,2
+Ford,"Mustang Mach-E",1
+Ford,Other,3
+Ford,Ranger,3
+Ford,Transit,1
+GMC,Sierra,4
+Geely,Ck,1
+Genesis,GV60,1
+Haval,H6,258
+Haval,Jolion,140
+Hino,"300 Series",3
+Hino,"500 Series",3
+Hino,FG1J,1
+Honda,Accord,235
+Honda,"Accord Tourer",2
+Honda,Acty,18
+Honda,Airwave,24
+Honda,BR-V,433
+Honda,Beat,2
+Honda,CR-V,19
+Honda,"CR-Z Sports Hybrid",33
+Honda,City,4410
+Honda,Civic,6540
+Honda,Clarity,1
+Honda,"Cross Road",14
+Honda,Ferio,1
+Honda,Fit,221
+Honda,"Fit Aria",1
+Honda,Freed,103
+Honda,"Grace Hybrid",48
+Honda,HR-V,119
+Honda,Insight,95
+Honda,"Insight Exclusive",1
+Honda,Inspire,6
+Honda,Integra,2
+Honda,Jade,7
+Honda,Life,53
+Honda,Mobilio,1
+Honda,"N Box",165
+Honda,"N One",121
+Honda,"N Wgn",319
+Honda,N-Van,2
+Honda,Other,2
+Honda,S2000,1
+Honda,S660,3
+Honda,Spike,28
+Honda,Stream,6
+Honda,Thats,4
+Honda,Today,1
+Honda,Vamos,14
+Honda,"Vamos Hobio",1
+Honda,Vezel,1289
+Honda,Z,1
+Honda,Zest,11
+Hyundai,Accent,1
+Hyundai,Coupe,2
+Hyundai,Elantra,186
+Hyundai,Excel,25
+Hyundai,"Grand Starex",8
+Hyundai,H-100,11
+Hyundai,H1,2
+Hyundai,Kona,2
+Hyundai,"Santa Fe",57
+Hyundai,Santro,535
+Hyundai,Shehzore,21
+Hyundai,Sonata,182
+Hyundai,Terracan,6
+Hyundai,Tucson,299
+Isuzu,D-Max,33
+Isuzu,NKR,3
+Isuzu,Other,1
+Isuzu,Trooper,4
+JAC,X200,3
+JMC,Vigus,2
+JW,"Forland Bravo",6
+JW,"Forland C-10",2
+JW,"Forland Safari",6
+Jaguar,XF,3
+Jeep,"CJ 5",24
+Jeep,Cherokee,6
+Jeep,"Cj 7",2
+Jeep,Gladiator,7
+Jeep,"M 151",19
+Jeep,Other,2
+Jeep,Wrangler,26
+KIA,Cerato,1
+KIA,Classic,42
+KIA,"Frontier K2700",1
+KIA,"Grand Carnival",22
+KIA,Picanto,330
+KIA,Pride,13
+KIA,Rio,2
+KIA,"Shehzore K2700",5
+KIA,Sorento,80
+KIA,Spectra,25
+KIA,Sportage,828
+KIA,Stonic,89
+Land,"Rover Defender",18
+Land,"Rover Discovery",1
+Land,"Rover Discovery 4",1
+Land,"Rover Freelander",2
+Lexus,CT200h,37
+Lexus,GS,5
+Lexus,GX,1
+Lexus,IS,4
+Lexus,"LS Series",2
+Lexus,"LX Series",56
+Lexus,Nx,2
+Lexus,"RX Series",60
+Lexus,Sc,3
+Lexus,UX,1
+MG,3,1
+MG,HS,433
+MG,ZS,29
+MINI,Cooper,8
+Mazda,1300,1
+Mazda,626,4
+Mazda,929,1
+Mazda,Axela,6
+Mazda,B2200,1
+Mazda,Biante,1
+Mazda,Bongo,1
+Mazda,"Bt 50",1
+Mazda,Carol,58
+Mazda,Cx3,1
+Mazda,Cx7,1
+Mazda,Demio,1
+Mazda,Flair,42
+Mazda,"Flair Crossover",8
+Mazda,"Flair Custom Style",2
+Mazda,Premacy,1
+Mazda,RX8,36
+Mazda,Rx7,5
+Mazda,Scrum,9
+Mazda,"Scrum Wagon",2
+Mazda,Titan,5
+Mercedes,"Benz A Class",2
+Mercedes,"Benz C Class",345
+Mercedes,"Benz CLA Class",15
+Mercedes,"Benz CLK Class",4
+Mercedes,"Benz CLS Class",1
+Mercedes,"Benz E Class",291
+Mercedes,"Benz E Class Coupe",2
+Mercedes,"Benz G Class",2
+Mercedes,"Benz GLA Class",4
+Mercedes,"Benz GLB Class",2
+Mercedes,"Benz M Class",1
+Mercedes,"Benz Ponton",1
+Mercedes,"Benz S Class",67
+Mercedes,"Benz SLK Class",4
+Mercedes,"Benz Sl Class",1
+Mercedes,"Benz Smart Fortwo",1
+Mercedes,"Benz Sprinter",5
+Mercedes,"Benz Unimog",1
+Mercedes,"Benz X",3
+Mitsubishi,Challenger,1
+Mitsubishi,"EK Custom",50
+Mitsubishi,"EK Space Custom",2
+Mitsubishi,"EK X",38
+Mitsubishi,"Ek Wagon",183
+Mitsubishi,FUSO,5
+Mitsubishi,Galant,18
+Mitsubishi,I,15
+Mitsubishi,L200,15
+Mitsubishi,L300,3
+Mitsubishi,Lancer,240
+Mitsubishi,"Lancer Evolution",1
+Mitsubishi,Minica,26
+Mitsubishi,Minicab,17
+Mitsubishi,Mirage,49
+Mitsubishi,Other,1
+Mitsubishi,Pajero,212
+Mitsubishi,"Pajero Junior",2
+Mitsubishi,"Pajero Mini",86
+Mitsubishi,Rvr,15
+Mitsubishi,Toppo,1
+Mushtaq,KY10,1
+Nissan,350Z,11
+Nissan,"AD Van",46
+Nissan,"Blue Bird",3
+Nissan,"Bluebird Sylphy",8
+Nissan,Caravan,2
+Nissan,Cedric,2
+Nissan,Cefiro,3
+Nissan,Clipper,150
+Nissan,Cube,1
+Nissan,Dayz,690
+Nissan,"Dayz Highway Star",33
+Nissan,Infinity,1
+Nissan,Juke,74
+Nissan,Kicks,57
+Nissan,Kix,10
+Nissan,Leaf,1
+Nissan,March,24
+Nissan,Micra,2
+Nissan,Moco,64
+Nissan,Murano,1
+Nissan,Navara,13
+Nissan,Note,379
+Nissan,"Note Aura",4
+Nissan,"Nv350 Caravan",2
+Nissan,Otti,23
+Nissan,"Path Finder",1
+Nissan,Patrol,20
+Nissan,Pickup,1
+Nissan,Pino,13
+Nissan,Pixo,1
+Nissan,Pulsar,2
+Nissan,Qashqai,3
+Nissan,Roox,97
+Nissan,Safari,7
+Nissan,Sakura,6
+Nissan,Sentra,3
+Nissan,Serena,89
+Nissan,Skyline,5
+Nissan,Sunny,239
+Nissan,Tiida,13
+Nissan,Wingroad,23
+Nissan,"X Trail",9
+Others,Other,2
+Peugeot,2008,149
+Peugeot,206,2
+Peugeot,3008,2
+Peugeot,E-,1
+Porsche,Boxster,2
+Porsche,Cayenne,14
+Porsche,Macan,4
+Porsche,Panamera,8
+Porsche,Taycan,2
+Power,"Mini Bus",8
+Prince,K01,3
+Prince,K07,18
+Prince,Pearl,116
+Proton,Saga,99
+Proton,X70,77
+Range,"Rover Autobiography",11
+Range,"Rover Evoque",3
+Range,"Rover Se 4.0",1
+Range,"Rover Sport",10
+Range,"Rover Vogue",28
+Renault,Other,1
+Sogo,"Double Cabin",1
+Sogo,Pickup,16
+SsangYong,Rexton,1
+SsangYong,Stavic,5
+Subaru,"Dias Wagon",1
+Subaru,Forester,1
+Subaru,Impreza,2
+Subaru,Justy,1
+Subaru,Other,3
+Subaru,Pleo,47
+Subaru,R2,7
+Subaru,Sambar,6
+Subaru,Stella,31
+Suzuki,APV,41
+Suzuki,Alto,3294
+Suzuki,"Alto Lapin",33
+Suzuki,Baleno,380
+Suzuki,Bolan,1010
+Suzuki,Cappuccino,1
+Suzuki,Carry,40
+Suzuki,Celerio,4
+Suzuki,Cervo,9
+Suzuki,Ciaz,24
+Suzuki,Cultus,3459
+Suzuki,Every,446
+Suzuki,"Every Wagon",161
+Suzuki,FX,174
+Suzuki,Hustler,155
+Suzuki,Jimny,131
+Suzuki,"Jimny Sierra",4
+Suzuki,Kei,27
+Suzuki,Khyber,456
+Suzuki,Kizashi,6
+Suzuki,Liana,314
+Suzuki,"MR Wagon",18
+Suzuki,Margalla,207
+Suzuki,"Mega Carry Xtra",8
+Suzuki,Mehran,4120
+Suzuki,Other,1
+Suzuki,Palette,1
+Suzuki,Potohar,59
+Suzuki,Ravi,253
+Suzuki,"S Cross",1
+Suzuki,Samurai,1
+Suzuki,Sj410,1
+Suzuki,Solio,5
+Suzuki,Spacia,55
+Suzuki,Splash,1
+Suzuki,Swift,1251
+Suzuki,Sx4,1
+Suzuki,Vitara,31
+Suzuki,"Wagon R",1832
+Suzuki,XL7,1
+Suzuki,Xbee,19
+Tank,500,2
+Tesla,"Model 3",2
+Toyota,"4 Runner",3
+Toyota,86,30
+Toyota,Allex,1
+Toyota,Allion,21
+Toyota,Alphard,4
+Toyota,Aqua,996
+Toyota,Auris,3
+Toyota,Avanza,12
+Toyota,Avensis,3
+Toyota,Aygo,8
+Toyota,"B B",2
+Toyota,Belta,150
+Toyota,Brevis,1
+Toyota,C-HR,506
+Toyota,Cami,3
+Toyota,Camry,108
+Toyota,Carina,7
+Toyota,Celica,2
+Toyota,Chaser,1
+Toyota,Coaster,6
+Toyota,Corolla,9071
+Toyota,"Corolla Assista",2
+Toyota,"Corolla Axio",273
+Toyota,"Corolla Cross",128
+Toyota,"Corolla Cross HEV",3
+Toyota,"Corolla Fielder",128
+Toyota,"Corolla Hatchback",6
+Toyota,"Corolla Hybrid",23
+Toyota,"Corolla Touring",2
+Toyota,Corona,31
+Toyota,Cressida,20
+Toyota,Cresta,1
+Toyota,Crown,157
+Toyota,Duet,23
+Toyota,Dyna,5
+Toyota,Esquire,8
+Toyota,Estima,10
+Toyota,"Fj Cruiser",15
+Toyota,Fortuner,628
+Toyota,FunCargo,1
+Toyota,Harrier,45
+Toyota,Hiace,119
+Toyota,Highlander,1
+Toyota,Hilux,862
+Toyota,ISIS,7
+Toyota,IST,11
+Toyota,"Land Cruiser",1053
+Toyota,Lucida,1
+Toyota,MR2,1
+Toyota,"Mark II",51
+Toyota,"Mark X",152
+Toyota,Noah,22
+Toyota,Other,3
+Toyota,Passo,1098
+Toyota,Pickup,2
+Toyota,"Pixis Epoch",87
+Toyota,"Pixis Space",2
+Toyota,"Pixis Van",1
+Toyota,Platz,80
+Toyota,Porte,8
+Toyota,Prado,1182
+Toyota,Premio,241
+Toyota,Prius,1018
+Toyota,"Prius Alpha",53
+Toyota,Probox,30
+Toyota,Ractis,1
+Toyota,Raize,342
+Toyota,Raum,3
+Toyota,Rav4,32
+Toyota,Roomy,43
+Toyota,Rumion,1
+Toyota,Rush,51
+Toyota,Sai,1
+Toyota,Sera,1
+Toyota,Sienta,167
+Toyota,Sprinter,2
+Toyota,Starlet,33
+Toyota,Succeed,8
+Toyota,Surf,223
+Toyota,Tacoma,5
+Toyota,Tank,8
+Toyota,Tercel,1
+Toyota,"Town Ace",19
+Toyota,Tundra,18
+Toyota,Vellfire,4
+Toyota,Verossa,2
+Toyota,Vitz,1851
+Toyota,Voxy,46
+Toyota,Wish,13
+Toyota,Yaris,891
+Toyota,"Yaris Cross",40
+Toyota,"Yaris Hatchback",386
+Toyota,iQ,5
+United,Alpha,13
+United,Bravo,54
+Volkswagen,Beetle,19
+Volkswagen,Golf,3
+Volkswagen,"Micro Bus",2
+Volkswagen,Passat,1
+Volkswagen,Polo,1
+Volkswagen,"Transporter T6",1
+Willys,M38,6
+ZOTYE,Z100,2

@@ -13,7 +13,7 @@ db.init_app(app)
 
 @app.route('/api/vehicles', methods=['GET'])
 def get_vehicles():
-    vehicles = CleanedVehicle.query.all()
+    vehicles = CleanedVehicle.query.limit(10).all()
     return jsonify([{
         'id': v.id,
         'price': v.price,
