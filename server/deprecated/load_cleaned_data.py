@@ -1,5 +1,5 @@
 import json
-from main import app, db, CleanedVehicle  # Adjust import as needed
+from server.deprecated.main import app, db, CleanedVehicle  # Adjust import as needed
 
 # Load the cleaned data from the JSON file
 with open('used_car_data.json', 'r') as f:
