@@ -1,5 +1,3 @@
-markdown
-Copy code
 # Car Price Predictor Pakistan
 
 This is a web application that predicts the price of used cars based on various features such as make, model, year, mileage, fuel type, engine capacity, transmission, and location. The application uses a machine learning model trained on a dataset of used car prices in Pakistan.
